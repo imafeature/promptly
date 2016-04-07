@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "GetNewestPromptIntent"
+    },
+    {
+      "intent": "GetPreviousPromptIntent"
+    },
+    {
+      "intent": "GetRandomPromptIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

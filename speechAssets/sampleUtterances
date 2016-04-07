@@ -1,0 +1,125 @@
+AMAZON.CancelIntent cancel
+AMAZON.CancelIntent goodbye
+AMAZON.CancelIntent never mind
+AMAZON.CancelIntent none
+AMAZON.CancelIntent nothing
+AMAZON.CancelIntent quit
+
+AMAZON.HelpIntent get help
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me
+AMAZON.HelpIntent how do I use this skill
+AMAZON.HelpIntent how do I use you
+AMAZON.HelpIntent how does this work
+AMAZON.HelpIntent huh
+AMAZON.HelpIntent I don't get it
+AMAZON.HelpIntent I don't understand
+AMAZON.HelpIntent I need help
+AMAZON.HelpIntent I'm confused
+AMAZON.HelpIntent wait what
+AMAZON.HelpIntent what can can I ask
+AMAZON.HelpIntent what can I ask you
+AMAZON.HelpIntent what can you do
+AMAZON.HelpIntent what can you do
+AMAZON.HelpIntent what do I do
+AMAZON.HelpIntent what does this skill do
+AMAZON.HelpIntent What should I say
+
+AMAZON.StopIntent enough
+AMAZON.StopIntent I'm done
+AMAZON.StopIntent I'm finished
+AMAZON.StopIntent I've heard enough
+AMAZON.StopIntent stop
+AMAZON.StopIntent that's all
+AMAZON.StopIntent that's enough
+AMAZON.StopIntent leave
+AMAZON.StopIntent quit
+AMAZON.StopIntent bye
+AMAZON.StopIntent good bye
+AMAZON.StopIntent stop
+AMAZON.StopIntent cancel
+AMAZON.StopIntent enough
+AMAZON.StopIntent please stop
+
+GetNewestPromptIntent current
+GetNewestPromptIntent get the current prompt
+GetNewestPromptIntent get the current writing prompt
+GetNewestPromptIntent get this week's prompt
+GetNewestPromptIntent get this week's writing prompt
+GetNewestPromptIntent get today's prompt
+GetNewestPromptIntent get today's writing prompt
+GetNewestPromptIntent give me the writing prompt
+GetNewestPromptIntent give me today's prompt
+GetNewestPromptIntent the current
+GetNewestPromptIntent the current prompt
+GetNewestPromptIntent the most recent
+GetNewestPromptIntent the newest
+GetNewestPromptIntent the newest prompt
+GetNewestPromptIntent the prompt
+GetNewestPromptIntent the writing prompt
+GetNewestPromptIntent this week's
+GetNewestPromptIntent this weeks
+GetNewestPromptIntent today's
+GetNewestPromptIntent todays
+GetNewestPromptIntent what is this week's prompt
+GetNewestPromptIntent what is today's prompt
+GetNewestPromptIntent what the current prompt is
+GetNewestPromptIntent what the most recent prompt is
+GetNewestPromptIntent what the prompt is
+GetNewestPromptIntent what the prompt is currently
+GetNewestPromptIntent what the prompt is for this week
+GetNewestPromptIntent what the prompt is for today
+GetNewestPromptIntent what this week's prompt is
+GetNewestPromptIntent what's today's writing prompt
+
+GetPreviousPromptIntent get last week's writing prompt
+GetPreviousPromptIntent get the last one
+GetPreviousPromptIntent get the previous one
+GetPreviousPromptIntent get the previous prompt
+GetPreviousPromptIntent get the previous writing prompt
+GetPreviousPromptIntent get the prompt from last time
+GetPreviousPromptIntent get the prompt from last time
+GetPreviousPromptIntent get the writing prompt for last week
+GetPreviousPromptIntent get the writing prompt for last week
+GetPreviousPromptIntent give me the prompt from last week
+GetPreviousPromptIntent last
+GetPreviousPromptIntent last week's
+GetPreviousPromptIntent previous
+GetPreviousPromptIntent the last one
+GetPreviousPromptIntent the previous one
+GetPreviousPromptIntent the previous prompt
+GetPreviousPromptIntent the previous writing prompt
+GetPreviousPromptIntent the prompt from last time
+GetPreviousPromptIntent the writing prompt for last week
+GetPreviousPromptIntent what was last week's prompt
+GetPreviousPromptIntent what was the last writing prompt
+GetPreviousPromptIntent what was the previous writing prompt
+GetPreviousPromptIntent what what was the last prompt
+
+GetRandomPromptIntent a prompt
+GetRandomPromptIntent a random prompt
+GetRandomPromptIntent an arbitrary prompt
+GetRandomPromptIntent any
+GetRandomPromptIntent any prompt
+GetRandomPromptIntent doesn't matter
+GetRandomPromptIntent don't care
+GetRandomPromptIntent get a prompt
+GetRandomPromptIntent get me a random prompt
+GetRandomPromptIntent get me a writing prompt
+GetRandomPromptIntent get me some prompt
+GetRandomPromptIntent give me a prompt
+GetRandomPromptIntent give me any writing prompt
+GetRandomPromptIntent I don't care
+GetRandomPromptIntent it doesn't matter
+GetRandomPromptIntent prompt me
+GetRandomPromptIntent random
+GetRandomPromptIntent some prompt
+GetRandomPromptIntent something random
+GetRandomPromptIntent surprise me
+GetRandomPromptIntent surprise me with a prompt
+GetRandomPromptIntent surprise me with a writing prompt
+GetRandomPromptIntent tell me a prompt
+GetRandomPromptIntent tell me a random prompt
+GetRandomPromptIntent tell me a writing prompt
+GetRandomPromptIntent whatever
+GetRandomPromptIntent whichever

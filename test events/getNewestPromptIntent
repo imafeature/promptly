@@ -1,0 +1,21 @@
+{
+  "session": {
+    "sessionId": "SessionId.32529c1c-5ae3-4993-b19f-4d719c13fc83",
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.be7fd8db-c74b-4daf-94ba-34ef03977529"
+    },
+    "user": {
+      "userId": "amzn1.echo-sdk-account.AECYSPU3KT7D3OLMIUHELI3Y7QYEFNEFGNY4PLQQWE4NUF6YYQAJO"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.977f7a36-1016-44c6-9ea4-fb42bf96cbf9",
+    "timestamp": "2016-02-17T22:30:39Z",
+    "intent": {
+      "name": "GetNewestPromptIntent",
+      "slots":{}
+    }
+  }
+}
